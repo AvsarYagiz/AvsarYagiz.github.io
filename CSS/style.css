@@ -1,0 +1,64 @@
+/* Set the font family for all elements */
+* {
+  font-family: 'Vazir', sans-serif;
+  
+}
+
+/* Set the background color of the body */
+body {
+  background: #212121;
+}
+
+h2{
+  margin: 0;
+}
+
+/* Style the chart container */
+#chart {
+  background: #212121;
+  position: fixed;
+  left: 0px;
+  right: 0px;
+  top: 50px;
+  bottom: 0px;
+  font-family: 'Vazir', sans-serif;
+}
+
+/* Add a shadow effect to text elements */
+g text.shadow {
+  text-shadow: 0.025em 0.04em 0 #555;
+}
+
+h2{
+  color: white;
+  text-align: center;
+}
+
+/* Style the group elements */
+g {
+  cursor: grab;
+  fill: white;
+  fill-opacity: 1;
+}
+
+/* Apply opacity on hover for rectangles */
+rect:hover {
+  opacity: 0.8;
+}
+
+/* Style the tooltip container */
+.tooltip {
+  position: absolute;
+  padding: 8px;
+  background: rgba(0, 0, 0, .87);
+  color: #fff;
+  border: 0px;
+  border-radius: 4px;
+  pointer-events: none;
+}
+
+/* Style the horizontal rule within the tooltip */
+#chart .tooltip hr {
+  padding: 0;
+  margin: 8px 0;
+}

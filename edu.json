@@ -1,0 +1,2036 @@
+{
+    "name": "Country",
+    "children": [
+      {
+        "name": "Bulgaria",
+        "children": [
+          {
+            "name": "Postgraduate (research)",
+            "children": [
+              {
+                "name": "Full-time",
+                "children": [
+                  {
+                    "domicile": "Bulgaria",
+                    "lOS": "Postgraduate (research)",
+                    "mOS": "Full-time",
+                    "regHE": "North East",
+                    "student": 5
+                  },
+                  {
+                    "domicile": "Bulgaria",
+                    "lOS": "Postgraduate (research)",
+                    "mOS": "Full-time",
+                    "regHE": "North West",
+                    "student": 10
+                  },
+                  {
+                    "domicile": "Bulgaria",
+                    "lOS": "Postgraduate (research)",
+                    "mOS": "Full-time",
+                    "regHE": "Yorkshire and The Humber",
+                    "student": 5
+                  },
+                  {
+                    "domicile": "Bulgaria",
+                    "lOS": "Postgraduate (research)",
+                    "mOS": "Full-time",
+                    "regHE": "East Midlands",
+                    "student": 10
+                  },
+                  {
+                    "domicile": "Bulgaria",
+                    "lOS": "Postgraduate (research)",
+                    "mOS": "Full-time",
+                    "regHE": "West Midlands",
+                    "student": 5
+                  },
+                  {
+                    "domicile": "Bulgaria",
+                    "lOS": "Postgraduate (research)",
+                    "mOS": "Full-time",
+                    "regHE": "East of England",
+                    "student": 10
+                  },
+                  {
+                    "domicile": "Bulgaria",
+                    "lOS": "Postgraduate (research)",
+                    "mOS": "Full-time",
+                    "regHE": "London",
+                    "student": 25
+                  },
+                  {
+                    "domicile": "Bulgaria",
+                    "lOS": "Postgraduate (research)",
+                    "mOS": "Full-time",
+                    "regHE": "South East",
+                    "student": 15
+                  },
+                  {
+                    "domicile": "Bulgaria",
+                    "lOS": "Postgraduate (research)",
+                    "mOS": "Full-time",
+                    "regHE": "South West",
+                    "student": 5
+                  },
+                  {
+                    "domicile": "Bulgaria",
+                    "lOS": "Postgraduate (research)",
+                    "mOS": "Full-time",
+                    "regHE": "Wales",
+                    "student": 5
+                  },
+                  {
+                    "domicile": "Bulgaria",
+                    "lOS": "Postgraduate (research)",
+                    "mOS": "Full-time",
+                    "regHE": "Scotland",
+                    "student": 15
+                  }
+                ]
+              },
+              {
+                "name": "Part-time",
+                "children": [
+                  {
+                    "domicile": "Bulgaria",
+                    "lOS": "Postgraduate (research)",
+                    "mOS": "Part-time",
+                    "regHE": "London",
+                    "student": 5
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Postgraduate (taught)",
+            "children": [
+              {
+                "name": "Full-time",
+                "children": [
+                  {
+                    "domicile": "Bulgaria",
+                    "lOS": "Postgraduate (taught)",
+                    "mOS": "Full-time",
+                    "regHE": "North East",
+                    "student": 5
+                  },
+                  {
+                    "domicile": "Bulgaria",
+                    "lOS": "Postgraduate (taught)",
+                    "mOS": "Full-time",
+                    "regHE": "North West",
+                    "student": 10
+                  },
+                  {
+                    "domicile": "Bulgaria",
+                    "lOS": "Postgraduate (taught)",
+                    "mOS": "Full-time",
+                    "regHE": "Yorkshire and The Humber",
+                    "student": 10
+                  },
+                  {
+                    "domicile": "Bulgaria",
+                    "lOS": "Postgraduate (taught)",
+                    "mOS": "Full-time",
+                    "regHE": "East Midlands",
+                    "student": 10
+                  },
+                  {
+                    "domicile": "Bulgaria",
+                    "lOS": "Postgraduate (taught)",
+                    "mOS": "Full-time",
+                    "regHE": "West Midlands",
+                    "student": 10
+                  },
+                  {
+                    "domicile": "Bulgaria",
+                    "lOS": "Postgraduate (taught)",
+                    "mOS": "Full-time",
+                    "regHE": "East of England",
+                    "student": 5
+                  },
+                  {
+                    "domicile": "Bulgaria",
+                    "lOS": "Postgraduate (taught)",
+                    "mOS": "Full-time",
+                    "regHE": "London",
+                    "student": 90
+                  },
+                  {
+                    "domicile": "Bulgaria",
+                    "lOS": "Postgraduate (taught)",
+                    "mOS": "Full-time",
+                    "regHE": "South East",
+                    "student": 20
+                  },
+                  {
+                    "domicile": "Bulgaria",
+                    "lOS": "Postgraduate (taught)",
+                    "mOS": "Full-time",
+                    "regHE": "South West",
+                    "student": 10
+                  },
+                  {
+                    "domicile": "Bulgaria",
+                    "lOS": "Postgraduate (taught)",
+                    "mOS": "Full-time",
+                    "regHE": "Wales",
+                    "student": 15
+                  },
+                  {
+                    "domicile": "Bulgaria",
+                    "lOS": "Postgraduate (taught)",
+                    "mOS": "Full-time",
+                    "regHE": "Scotland",
+                    "student": 20
+                  }
+                ]
+              },
+              {
+                "name": "Part-time",
+                "children": [
+                  {
+                    "domicile": "Bulgaria",
+                    "lOS": "Postgraduate (taught)",
+                    "mOS": "Part-time",
+                    "regHE": "Yorkshire and The Humber",
+                    "student": 10
+                  },
+                  {
+                    "domicile": "Bulgaria",
+                    "lOS": "Postgraduate (taught)",
+                    "mOS": "Part-time",
+                    "regHE": "East Midlands",
+                    "student": 5
+                  },
+                  {
+                    "domicile": "Bulgaria",
+                    "lOS": "Postgraduate (taught)",
+                    "mOS": "Part-time",
+                    "regHE": "East of England",
+                    "student": 5
+                  },
+                  {
+                    "domicile": "Bulgaria",
+                    "lOS": "Postgraduate (taught)",
+                    "mOS": "Part-time",
+                    "regHE": "London",
+                    "student": 30
+                  },
+                  {
+                    "domicile": "Bulgaria",
+                    "lOS": "Postgraduate (taught)",
+                    "mOS": "Part-time",
+                    "regHE": "South East",
+                    "student": 10
+                  },
+                  {
+                    "domicile": "Bulgaria",
+                    "lOS": "Postgraduate (taught)",
+                    "mOS": "Part-time",
+                    "regHE": "South West",
+                    "student": 5
+                  },
+                  {
+                    "domicile": "Bulgaria",
+                    "lOS": "Postgraduate (taught)",
+                    "mOS": "Part-time",
+                    "regHE": "Scotland",
+                    "student": 10
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "First degree",
+            "children": [
+              {
+                "name": "Full-time",
+                "children": [
+                  {
+                    "domicile": "Bulgaria",
+                    "lOS": "First degree",
+                    "mOS": "Full-time",
+                    "regHE": "North East",
+                    "student": 60
+                  },
+                  {
+                    "domicile": "Bulgaria",
+                    "lOS": "First degree",
+                    "mOS": "Full-time",
+                    "regHE": "North West",
+                    "student": 300
+                  },
+                  {
+                    "domicile": "Bulgaria",
+                    "lOS": "First degree",
+                    "mOS": "Full-time",
+                    "regHE": "Yorkshire and The Humber",
+                    "student": 175
+                  },
+                  {
+                    "domicile": "Bulgaria",
+                    "lOS": "First degree",
+                    "mOS": "Full-time",
+                    "regHE": "East Midlands",
+                    "student": 145
+                  },
+                  {
+                    "domicile": "Bulgaria",
+                    "lOS": "First degree",
+                    "mOS": "Full-time",
+                    "regHE": "West Midlands",
+                    "student": 230
+                  },
+                  {
+                    "domicile": "Bulgaria",
+                    "lOS": "First degree",
+                    "mOS": "Full-time",
+                    "regHE": "East of England",
+                    "student": 240
+                  },
+                  {
+                    "domicile": "Bulgaria",
+                    "lOS": "First degree",
+                    "mOS": "Full-time",
+                    "regHE": "London",
+                    "student": 750
+                  },
+                  {
+                    "domicile": "Bulgaria",
+                    "lOS": "First degree",
+                    "mOS": "Full-time",
+                    "regHE": "South East",
+                    "student": 575
+                  },
+                  {
+                    "domicile": "Bulgaria",
+                    "lOS": "First degree",
+                    "mOS": "Full-time",
+                    "regHE": "South West",
+                    "student": 245
+                  },
+                  {
+                    "domicile": "Bulgaria",
+                    "lOS": "First degree",
+                    "mOS": "Full-time",
+                    "regHE": "Wales",
+                    "student": 120
+                  },
+                  {
+                    "domicile": "Bulgaria",
+                    "lOS": "First degree",
+                    "mOS": "Full-time",
+                    "regHE": "Scotland",
+                    "student": 610
+                  },
+                  {
+                    "domicile": "Bulgaria",
+                    "lOS": "First degree",
+                    "mOS": "Full-time",
+                    "regHE": "Northern Ireland",
+                    "student": 5
+                  }
+                ]
+              },
+              {
+                "name": "Part-time",
+                "children": [
+                  {
+                    "domicile": "Bulgaria",
+                    "lOS": "First degree",
+                    "mOS": "Part-time",
+                    "regHE": "North West",
+                    "student": 5
+                  },
+                  {
+                    "domicile": "Bulgaria",
+                    "lOS": "First degree",
+                    "mOS": "Part-time",
+                    "regHE": "Yorkshire and The Humber",
+                    "student": 5
+                  },
+                  {
+                    "domicile": "Bulgaria",
+                    "lOS": "First degree",
+                    "mOS": "Part-time",
+                    "regHE": "West Midlands",
+                    "student": 15
+                  },
+                  {
+                    "domicile": "Bulgaria",
+                    "lOS": "First degree",
+                    "mOS": "Part-time",
+                    "regHE": "East of England",
+                    "student": 10
+                  },
+                  {
+                    "domicile": "Bulgaria",
+                    "lOS": "First degree",
+                    "mOS": "Part-time",
+                    "regHE": "London",
+                    "student": 25
+                  },
+                  {
+                    "domicile": "Bulgaria",
+                    "lOS": "First degree",
+                    "mOS": "Part-time",
+                    "regHE": "South East",
+                    "student": 15
+                  },
+                  {
+                    "domicile": "Bulgaria",
+                    "lOS": "First degree",
+                    "mOS": "Part-time",
+                    "regHE": "South West",
+                    "student": 10
+                  },
+                  {
+                    "domicile": "Bulgaria",
+                    "lOS": "First degree",
+                    "mOS": "Part-time",
+                    "regHE": "Scotland",
+                    "student": 25
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Other undergraduate",
+            "children": [
+              {
+                "name": "Full-time",
+                "children": [
+                  {
+                    "domicile": "Bulgaria",
+                    "lOS": "Other undergraduate",
+                    "mOS": "Full-time",
+                    "regHE": "North East",
+                    "student": 5
+                  },
+                  {
+                    "domicile": "Bulgaria",
+                    "lOS": "Other undergraduate",
+                    "mOS": "Full-time",
+                    "regHE": "West Midlands",
+                    "student": 5
+                  },
+                  {
+                    "domicile": "Bulgaria",
+                    "lOS": "Other undergraduate",
+                    "mOS": "Full-time",
+                    "regHE": "London",
+                    "student": 5
+                  },
+                  {
+                    "domicile": "Bulgaria",
+                    "lOS": "Other undergraduate",
+                    "mOS": "Full-time",
+                    "regHE": "Wales",
+                    "student": 5
+                  }
+                ]
+              },
+              {
+                "name": "Part-time",
+                "children": [
+                  {
+                    "domicile": "Bulgaria",
+                    "lOS": "Other undergraduate",
+                    "mOS": "Part-time",
+                    "regHE": "East of England",
+                    "student": 5
+                  },
+                  {
+                    "domicile": "Bulgaria",
+                    "lOS": "Other undergraduate",
+                    "mOS": "Part-time",
+                    "regHE": "London",
+                    "student": 5
+                  },
+                  {
+                    "domicile": "Bulgaria",
+                    "lOS": "Other undergraduate",
+                    "mOS": "Part-time",
+                    "regHE": "Scotland",
+                    "student": 5
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Greece",
+        "children": [
+          {
+            "name": "Postgraduate (research)",
+            "children": [
+              {
+                "name": "Full-time",
+                "children": [
+                  {
+                    "domicile": "Greece",
+                    "lOS": "Postgraduate (research)",
+                    "mOS": "Full-time",
+                    "regHE": "North East",
+                    "student": 20
+                  },
+                  {
+                    "domicile": "Greece",
+                    "lOS": "Postgraduate (research)",
+                    "mOS": "Full-time",
+                    "regHE": "North West",
+                    "student": 75
+                  },
+                  {
+                    "domicile": "Greece",
+                    "lOS": "Postgraduate (research)",
+                    "mOS": "Full-time",
+                    "regHE": "Yorkshire and The Humber",
+                    "student": 45
+                  },
+                  {
+                    "domicile": "Greece",
+                    "lOS": "Postgraduate (research)",
+                    "mOS": "Full-time",
+                    "regHE": "East Midlands",
+                    "student": 45
+                  },
+                  {
+                    "domicile": "Greece",
+                    "lOS": "Postgraduate (research)",
+                    "mOS": "Full-time",
+                    "regHE": "West Midlands",
+                    "student": 60
+                  },
+                  {
+                    "domicile": "Greece",
+                    "lOS": "Postgraduate (research)",
+                    "mOS": "Full-time",
+                    "regHE": "East of England",
+                    "student": 80
+                  },
+                  {
+                    "domicile": "Greece",
+                    "lOS": "Postgraduate (research)",
+                    "mOS": "Full-time",
+                    "regHE": "London",
+                    "student": 210
+                  },
+                  {
+                    "domicile": "Greece",
+                    "lOS": "Postgraduate (research)",
+                    "mOS": "Full-time",
+                    "regHE": "South East",
+                    "student": 115
+                  },
+                  {
+                    "domicile": "Greece",
+                    "lOS": "Postgraduate (research)",
+                    "mOS": "Full-time",
+                    "regHE": "South West",
+                    "student": 30
+                  },
+                  {
+                    "domicile": "Greece",
+                    "lOS": "Postgraduate (research)",
+                    "mOS": "Full-time",
+                    "regHE": "Wales",
+                    "student": 15
+                  },
+                  {
+                    "domicile": "Greece",
+                    "lOS": "Postgraduate (research)",
+                    "mOS": "Full-time",
+                    "regHE": "Scotland",
+                    "student": 135
+                  },
+                  {
+                    "domicile": "Greece",
+                    "lOS": "Postgraduate (research)",
+                    "mOS": "Full-time",
+                    "regHE": "Northern Ireland",
+                    "student": 10
+                  }
+                ]
+              },
+              {
+                "name": "Part-time",
+                "children": [
+                  {
+                    "domicile": "Greece",
+                    "lOS": "Postgraduate (research)",
+                    "mOS": "Part-time",
+                    "regHE": "North East",
+                    "student": 10
+                  },
+                  {
+                    "domicile": "Greece",
+                    "lOS": "Postgraduate (research)",
+                    "mOS": "Part-time",
+                    "regHE": "North West",
+                    "student": 10
+                  },
+                  {
+                    "domicile": "Greece",
+                    "lOS": "Postgraduate (research)",
+                    "mOS": "Part-time",
+                    "regHE": "Yorkshire and The Humber",
+                    "student": 5
+                  },
+                  {
+                    "domicile": "Greece",
+                    "lOS": "Postgraduate (research)",
+                    "mOS": "Part-time",
+                    "regHE": "East Midlands",
+                    "student": 5
+                  },
+                  {
+                    "domicile": "Greece",
+                    "lOS": "Postgraduate (research)",
+                    "mOS": "Part-time",
+                    "regHE": "West Midlands",
+                    "student": 15
+                  },
+                  {
+                    "domicile": "Greece",
+                    "lOS": "Postgraduate (research)",
+                    "mOS": "Part-time",
+                    "regHE": "East of England",
+                    "student": 15
+                  },
+                  {
+                    "domicile": "Greece",
+                    "lOS": "Postgraduate (research)",
+                    "mOS": "Part-time",
+                    "regHE": "London",
+                    "student": 45
+                  },
+                  {
+                    "domicile": "Greece",
+                    "lOS": "Postgraduate (research)",
+                    "mOS": "Part-time",
+                    "regHE": "South East",
+                    "student": 15
+                  },
+                  {
+                    "domicile": "Greece",
+                    "lOS": "Postgraduate (research)",
+                    "mOS": "Part-time",
+                    "regHE": "South West",
+                    "student": 10
+                  },
+                  {
+                    "domicile": "Greece",
+                    "lOS": "Postgraduate (research)",
+                    "mOS": "Part-time",
+                    "regHE": "Wales",
+                    "student": 5
+                  },
+                  {
+                    "domicile": "Greece",
+                    "lOS": "Postgraduate (research)",
+                    "mOS": "Part-time",
+                    "regHE": "Scotland",
+                    "student": 20
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Postgraduate (taught)",
+            "children": [
+              {
+                "name": "Full-time",
+                "children": [
+                  {
+                    "domicile": "Greece",
+                    "lOS": "Postgraduate (taught)",
+                    "mOS": "Full-time",
+                    "regHE": "North East",
+                    "student": 80
+                  },
+                  {
+                    "domicile": "Greece",
+                    "lOS": "Postgraduate (taught)",
+                    "mOS": "Full-time",
+                    "regHE": "North West",
+                    "student": 50
+                  },
+                  {
+                    "domicile": "Greece",
+                    "lOS": "Postgraduate (taught)",
+                    "mOS": "Full-time",
+                    "regHE": "Yorkshire and The Humber",
+                    "student": 40
+                  },
+                  {
+                    "domicile": "Greece",
+                    "lOS": "Postgraduate (taught)",
+                    "mOS": "Full-time",
+                    "regHE": "East Midlands",
+                    "student": 25
+                  },
+                  {
+                    "domicile": "Greece",
+                    "lOS": "Postgraduate (taught)",
+                    "mOS": "Full-time",
+                    "regHE": "West Midlands",
+                    "student": 45
+                  },
+                  {
+                    "domicile": "Greece",
+                    "lOS": "Postgraduate (taught)",
+                    "mOS": "Full-time",
+                    "regHE": "East of England",
+                    "student": 50
+                  },
+                  {
+                    "domicile": "Greece",
+                    "lOS": "Postgraduate (taught)",
+                    "mOS": "Full-time",
+                    "regHE": "London",
+                    "student": 565
+                  },
+                  {
+                    "domicile": "Greece",
+                    "lOS": "Postgraduate (taught)",
+                    "mOS": "Full-time",
+                    "regHE": "South East",
+                    "student": 100
+                  },
+                  {
+                    "domicile": "Greece",
+                    "lOS": "Postgraduate (taught)",
+                    "mOS": "Full-time",
+                    "regHE": "South West",
+                    "student": 50
+                  },
+                  {
+                    "domicile": "Greece",
+                    "lOS": "Postgraduate (taught)",
+                    "mOS": "Full-time",
+                    "regHE": "Wales",
+                    "student": 50
+                  },
+                  {
+                    "domicile": "Greece",
+                    "lOS": "Postgraduate (taught)",
+                    "mOS": "Full-time",
+                    "regHE": "Scotland",
+                    "student": 180
+                  }
+                ]
+              },
+              {
+                "name": "Part-time",
+                "children": [
+                  {
+                    "domicile": "Greece",
+                    "lOS": "Postgraduate (taught)",
+                    "mOS": "Part-time",
+                    "regHE": "North East",
+                    "student": 10
+                  },
+                  {
+                    "domicile": "Greece",
+                    "lOS": "Postgraduate (taught)",
+                    "mOS": "Part-time",
+                    "regHE": "North West",
+                    "student": 45
+                  },
+                  {
+                    "domicile": "Greece",
+                    "lOS": "Postgraduate (taught)",
+                    "mOS": "Part-time",
+                    "regHE": "Yorkshire and The Humber",
+                    "student": 25
+                  },
+                  {
+                    "domicile": "Greece",
+                    "lOS": "Postgraduate (taught)",
+                    "mOS": "Part-time",
+                    "regHE": "East Midlands",
+                    "student": 10
+                  },
+                  {
+                    "domicile": "Greece",
+                    "lOS": "Postgraduate (taught)",
+                    "mOS": "Part-time",
+                    "regHE": "West Midlands",
+                    "student": 30
+                  },
+                  {
+                    "domicile": "Greece",
+                    "lOS": "Postgraduate (taught)",
+                    "mOS": "Part-time",
+                    "regHE": "East of England",
+                    "student": 15
+                  },
+                  {
+                    "domicile": "Greece",
+                    "lOS": "Postgraduate (taught)",
+                    "mOS": "Part-time",
+                    "regHE": "London",
+                    "student": 135
+                  },
+                  {
+                    "domicile": "Greece",
+                    "lOS": "Postgraduate (taught)",
+                    "mOS": "Part-time",
+                    "regHE": "South East",
+                    "student": 30
+                  },
+                  {
+                    "domicile": "Greece",
+                    "lOS": "Postgraduate (taught)",
+                    "mOS": "Part-time",
+                    "regHE": "South West",
+                    "student": 20
+                  },
+                  {
+                    "domicile": "Greece",
+                    "lOS": "Postgraduate (taught)",
+                    "mOS": "Part-time",
+                    "regHE": "Wales",
+                    "student": 20
+                  },
+                  {
+                    "domicile": "Greece",
+                    "lOS": "Postgraduate (taught)",
+                    "mOS": "Part-time",
+                    "regHE": "Scotland",
+                    "student": 65
+                  },
+                  {
+                    "domicile": "Greece",
+                    "lOS": "Postgraduate (taught)",
+                    "mOS": "Part-time",
+                    "regHE": "Northern Ireland",
+                    "student": 5
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "First degree",
+            "children": [
+              {
+                "name": "Full-time",
+                "children": [
+                  {
+                    "domicile": "Greece",
+                    "lOS": "First degree",
+                    "mOS": "Full-time",
+                    "regHE": "North East",
+                    "student": 340
+                  },
+                  {
+                    "domicile": "Greece",
+                    "lOS": "First degree",
+                    "mOS": "Full-time",
+                    "regHE": "North West",
+                    "student": 210
+                  },
+                  {
+                    "domicile": "Greece",
+                    "lOS": "First degree",
+                    "mOS": "Full-time",
+                    "regHE": "Yorkshire and The Humber",
+                    "student": 215
+                  },
+                  {
+                    "domicile": "Greece",
+                    "lOS": "First degree",
+                    "mOS": "Full-time",
+                    "regHE": "East Midlands",
+                    "student": 170
+                  },
+                  {
+                    "domicile": "Greece",
+                    "lOS": "First degree",
+                    "mOS": "Full-time",
+                    "regHE": "West Midlands",
+                    "student": 235
+                  },
+                  {
+                    "domicile": "Greece",
+                    "lOS": "First degree",
+                    "mOS": "Full-time",
+                    "regHE": "East of England",
+                    "student": 230
+                  },
+                  {
+                    "domicile": "Greece",
+                    "lOS": "First degree",
+                    "mOS": "Full-time",
+                    "regHE": "London",
+                    "student": 950
+                  },
+                  {
+                    "domicile": "Greece",
+                    "lOS": "First degree",
+                    "mOS": "Full-time",
+                    "regHE": "South East",
+                    "student": 800
+                  },
+                  {
+                    "domicile": "Greece",
+                    "lOS": "First degree",
+                    "mOS": "Full-time",
+                    "regHE": "South West",
+                    "student": 415
+                  },
+                  {
+                    "domicile": "Greece",
+                    "lOS": "First degree",
+                    "mOS": "Full-time",
+                    "regHE": "Wales",
+                    "student": 175
+                  },
+                  {
+                    "domicile": "Greece",
+                    "lOS": "First degree",
+                    "mOS": "Full-time",
+                    "regHE": "Scotland",
+                    "student": 535
+                  },
+                  {
+                    "domicile": "Greece",
+                    "lOS": "First degree",
+                    "mOS": "Full-time",
+                    "regHE": "Northern Ireland",
+                    "student": 5
+                  }
+                ]
+              },
+              {
+                "name": "Part-time",
+                "children": [
+                  {
+                    "domicile": "Greece",
+                    "lOS": "First degree",
+                    "mOS": "Part-time",
+                    "regHE": "North East",
+                    "student": 20
+                  },
+                  {
+                    "domicile": "Greece",
+                    "lOS": "First degree",
+                    "mOS": "Part-time",
+                    "regHE": "North West",
+                    "student": 5
+                  },
+                  {
+                    "domicile": "Greece",
+                    "lOS": "First degree",
+                    "mOS": "Part-time",
+                    "regHE": "Yorkshire and The Humber",
+                    "student": 5
+                  },
+                  {
+                    "domicile": "Greece",
+                    "lOS": "First degree",
+                    "mOS": "Part-time",
+                    "regHE": "East Midlands",
+                    "student": 5
+                  },
+                  {
+                    "domicile": "Greece",
+                    "lOS": "First degree",
+                    "mOS": "Part-time",
+                    "regHE": "West Midlands",
+                    "student": 10
+                  },
+                  {
+                    "domicile": "Greece",
+                    "lOS": "First degree",
+                    "mOS": "Part-time",
+                    "regHE": "East of England",
+                    "student": 10
+                  },
+                  {
+                    "domicile": "Greece",
+                    "lOS": "First degree",
+                    "mOS": "Part-time",
+                    "regHE": "London",
+                    "student": 25
+                  },
+                  {
+                    "domicile": "Greece",
+                    "lOS": "First degree",
+                    "mOS": "Part-time",
+                    "regHE": "South East",
+                    "student": 25
+                  },
+                  {
+                    "domicile": "Greece",
+                    "lOS": "First degree",
+                    "mOS": "Part-time",
+                    "regHE": "South West",
+                    "student": 10
+                  },
+                  {
+                    "domicile": "Greece",
+                    "lOS": "First degree",
+                    "mOS": "Part-time",
+                    "regHE": "Wales",
+                    "student": 5
+                  },
+                  {
+                    "domicile": "Greece",
+                    "lOS": "First degree",
+                    "mOS": "Part-time",
+                    "regHE": "Scotland",
+                    "student": 5
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Other undergraduate",
+            "children": [
+              {
+                "name": "Full-time",
+                "children": [
+                  {
+                    "domicile": "Greece",
+                    "lOS": "Other undergraduate",
+                    "mOS": "Full-time",
+                    "regHE": "East of England",
+                    "student": 5
+                  },
+                  {
+                    "domicile": "Greece",
+                    "lOS": "Other undergraduate",
+                    "mOS": "Full-time",
+                    "regHE": "London",
+                    "student": 5
+                  },
+                  {
+                    "domicile": "Greece",
+                    "lOS": "Other undergraduate",
+                    "mOS": "Full-time",
+                    "regHE": "South East",
+                    "student": 5
+                  }
+                ]
+              },
+              {
+                "name": "Part-time",
+                "children": [
+                  {
+                    "domicile": "Greece",
+                    "lOS": "Other undergraduate",
+                    "mOS": "Part-time",
+                    "regHE": "Yorkshire and The Humber",
+                    "student": 5
+                  },
+                  {
+                    "domicile": "Greece",
+                    "lOS": "Other undergraduate",
+                    "mOS": "Part-time",
+                    "regHE": "West Midlands",
+                    "student": 5
+                  },
+                  {
+                    "domicile": "Greece",
+                    "lOS": "Other undergraduate",
+                    "mOS": "Part-time",
+                    "regHE": "East of England",
+                    "student": 5
+                  },
+                  {
+                    "domicile": "Greece",
+                    "lOS": "Other undergraduate",
+                    "mOS": "Part-time",
+                    "regHE": "London",
+                    "student": 5
+                  },
+                  {
+                    "domicile": "Greece",
+                    "lOS": "Other undergraduate",
+                    "mOS": "Part-time",
+                    "regHE": "Wales",
+                    "student": 5
+                  },
+                  {
+                    "domicile": "Greece",
+                    "lOS": "Other undergraduate",
+                    "mOS": "Part-time",
+                    "regHE": "Scotland",
+                    "student": 10
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Russia",
+        "children": [
+          {
+            "name": "Postgraduate (research)",
+            "children": [
+              {
+                "name": "Full-time",
+                "children": [
+                  {
+                    "domicile": "Russia",
+                    "lOS": "Postgraduate (research)",
+                    "mOS": "Full-time",
+                    "regHE": "North East",
+                    "student": 10
+                  },
+                  {
+                    "domicile": "Russia",
+                    "lOS": "Postgraduate (research)",
+                    "mOS": "Full-time",
+                    "regHE": "North West",
+                    "student": 20
+                  },
+                  {
+                    "domicile": "Russia",
+                    "lOS": "Postgraduate (research)",
+                    "mOS": "Full-time",
+                    "regHE": "Yorkshire and The Humber",
+                    "student": 5
+                  },
+                  {
+                    "domicile": "Russia",
+                    "lOS": "Postgraduate (research)",
+                    "mOS": "Full-time",
+                    "regHE": "East Midlands",
+                    "student": 5
+                  },
+                  {
+                    "domicile": "Russia",
+                    "lOS": "Postgraduate (research)",
+                    "mOS": "Full-time",
+                    "regHE": "West Midlands",
+                    "student": 20
+                  },
+                  {
+                    "domicile": "Russia",
+                    "lOS": "Postgraduate (research)",
+                    "mOS": "Full-time",
+                    "regHE": "East of England",
+                    "student": 35
+                  },
+                  {
+                    "domicile": "Russia",
+                    "lOS": "Postgraduate (research)",
+                    "mOS": "Full-time",
+                    "regHE": "London",
+                    "student": 55
+                  },
+                  {
+                    "domicile": "Russia",
+                    "lOS": "Postgraduate (research)",
+                    "mOS": "Full-time",
+                    "regHE": "South East",
+                    "student": 40
+                  },
+                  {
+                    "domicile": "Russia",
+                    "lOS": "Postgraduate (research)",
+                    "mOS": "Full-time",
+                    "regHE": "South West",
+                    "student": 10
+                  },
+                  {
+                    "domicile": "Russia",
+                    "lOS": "Postgraduate (research)",
+                    "mOS": "Full-time",
+                    "regHE": "Scotland",
+                    "student": 20
+                  }
+                ]
+              },
+              {
+                "name": "Part-time",
+                "children": [
+                  {
+                    "domicile": "Russia",
+                    "lOS": "Postgraduate (research)",
+                    "mOS": "Part-time",
+                    "regHE": "London",
+                    "student": 5
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Postgraduate (taught)",
+            "children": [
+              {
+                "name": "Full-time",
+                "children": [
+                  {
+                    "domicile": "Russia",
+                    "lOS": "Postgraduate (taught)",
+                    "mOS": "Full-time",
+                    "regHE": "North East",
+                    "student": 20
+                  },
+                  {
+                    "domicile": "Russia",
+                    "lOS": "Postgraduate (taught)",
+                    "mOS": "Full-time",
+                    "regHE": "North West",
+                    "student": 35
+                  },
+                  {
+                    "domicile": "Russia",
+                    "lOS": "Postgraduate (taught)",
+                    "mOS": "Full-time",
+                    "regHE": "Yorkshire and The Humber",
+                    "student": 20
+                  },
+                  {
+                    "domicile": "Russia",
+                    "lOS": "Postgraduate (taught)",
+                    "mOS": "Full-time",
+                    "regHE": "East Midlands",
+                    "student": 15
+                  },
+                  {
+                    "domicile": "Russia",
+                    "lOS": "Postgraduate (taught)",
+                    "mOS": "Full-time",
+                    "regHE": "West Midlands",
+                    "student": 35
+                  },
+                  {
+                    "domicile": "Russia",
+                    "lOS": "Postgraduate (taught)",
+                    "mOS": "Full-time",
+                    "regHE": "East of England",
+                    "student": 35
+                  },
+                  {
+                    "domicile": "Russia",
+                    "lOS": "Postgraduate (taught)",
+                    "mOS": "Full-time",
+                    "regHE": "London",
+                    "student": 460
+                  },
+                  {
+                    "domicile": "Russia",
+                    "lOS": "Postgraduate (taught)",
+                    "mOS": "Full-time",
+                    "regHE": "South East",
+                    "student": 65
+                  },
+                  {
+                    "domicile": "Russia",
+                    "lOS": "Postgraduate (taught)",
+                    "mOS": "Full-time",
+                    "regHE": "South West",
+                    "student": 30
+                  },
+                  {
+                    "domicile": "Russia",
+                    "lOS": "Postgraduate (taught)",
+                    "mOS": "Full-time",
+                    "regHE": "Wales",
+                    "student": 10
+                  },
+                  {
+                    "domicile": "Russia",
+                    "lOS": "Postgraduate (taught)",
+                    "mOS": "Full-time",
+                    "regHE": "Scotland",
+                    "student": 95
+                  },
+                  {
+                    "domicile": "Russia",
+                    "lOS": "Postgraduate (taught)",
+                    "mOS": "Full-time",
+                    "regHE": "Northern Ireland",
+                    "student": 10
+                  }
+                ]
+              },
+              {
+                "name": "Part-time",
+                "children": [
+                  {
+                    "domicile": "Russia",
+                    "lOS": "Postgraduate (taught)",
+                    "mOS": "Part-time",
+                    "regHE": "North West",
+                    "student": 5
+                  },
+                  {
+                    "domicile": "Russia",
+                    "lOS": "Postgraduate (taught)",
+                    "mOS": "Part-time",
+                    "regHE": "Yorkshire and The Humber",
+                    "student": 5
+                  },
+                  {
+                    "domicile": "Russia",
+                    "lOS": "Postgraduate (taught)",
+                    "mOS": "Part-time",
+                    "regHE": "East Midlands",
+                    "student": 5
+                  },
+                  {
+                    "domicile": "Russia",
+                    "lOS": "Postgraduate (taught)",
+                    "mOS": "Part-time",
+                    "regHE": "West Midlands",
+                    "student": 10
+                  },
+                  {
+                    "domicile": "Russia",
+                    "lOS": "Postgraduate (taught)",
+                    "mOS": "Part-time",
+                    "regHE": "London",
+                    "student": 50
+                  },
+                  {
+                    "domicile": "Russia",
+                    "lOS": "Postgraduate (taught)",
+                    "mOS": "Part-time",
+                    "regHE": "South East",
+                    "student": 25
+                  },
+                  {
+                    "domicile": "Russia",
+                    "lOS": "Postgraduate (taught)",
+                    "mOS": "Part-time",
+                    "regHE": "South West",
+                    "student": 5
+                  },
+                  {
+                    "domicile": "Russia",
+                    "lOS": "Postgraduate (taught)",
+                    "mOS": "Part-time",
+                    "regHE": "Scotland",
+                    "student": 15
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "First degree",
+            "children": [
+              {
+                "name": "Full-time",
+                "children": [
+                  {
+                    "domicile": "Russia",
+                    "lOS": "First degree",
+                    "mOS": "Full-time",
+                    "regHE": "North East",
+                    "student": 60
+                  },
+                  {
+                    "domicile": "Russia",
+                    "lOS": "First degree",
+                    "mOS": "Full-time",
+                    "regHE": "North West",
+                    "student": 110
+                  },
+                  {
+                    "domicile": "Russia",
+                    "lOS": "First degree",
+                    "mOS": "Full-time",
+                    "regHE": "Yorkshire and The Humber",
+                    "student": 60
+                  },
+                  {
+                    "domicile": "Russia",
+                    "lOS": "First degree",
+                    "mOS": "Full-time",
+                    "regHE": "East Midlands",
+                    "student": 70
+                  },
+                  {
+                    "domicile": "Russia",
+                    "lOS": "First degree",
+                    "mOS": "Full-time",
+                    "regHE": "West Midlands",
+                    "student": 70
+                  },
+                  {
+                    "domicile": "Russia",
+                    "lOS": "First degree",
+                    "mOS": "Full-time",
+                    "regHE": "East of England",
+                    "student": 85
+                  },
+                  {
+                    "domicile": "Russia",
+                    "lOS": "First degree",
+                    "mOS": "Full-time",
+                    "regHE": "London",
+                    "student": 965
+                  },
+                  {
+                    "domicile": "Russia",
+                    "lOS": "First degree",
+                    "mOS": "Full-time",
+                    "regHE": "South East",
+                    "student": 245
+                  },
+                  {
+                    "domicile": "Russia",
+                    "lOS": "First degree",
+                    "mOS": "Full-time",
+                    "regHE": "South West",
+                    "student": 175
+                  },
+                  {
+                    "domicile": "Russia",
+                    "lOS": "First degree",
+                    "mOS": "Full-time",
+                    "regHE": "Wales",
+                    "student": 30
+                  },
+                  {
+                    "domicile": "Russia",
+                    "lOS": "First degree",
+                    "mOS": "Full-time",
+                    "regHE": "Scotland",
+                    "student": 150
+                  },
+                  {
+                    "domicile": "Russia",
+                    "lOS": "First degree",
+                    "mOS": "Full-time",
+                    "regHE": "Northern Ireland",
+                    "student": 5
+                  }
+                ]
+              },
+              {
+                "name": "Part-time",
+                "children": [
+                  {
+                    "domicile": "Russia",
+                    "lOS": "First degree",
+                    "mOS": "Part-time",
+                    "regHE": "London",
+                    "student": 15
+                  },
+                  {
+                    "domicile": "Russia",
+                    "lOS": "First degree",
+                    "mOS": "Part-time",
+                    "regHE": "Wales",
+                    "student": 5
+                  },
+                  {
+                    "domicile": "Russia",
+                    "lOS": "First degree",
+                    "mOS": "Part-time",
+                    "regHE": "Scotland",
+                    "student": 5
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Other undergraduate",
+            "children": [
+              {
+                "name": "Full-time",
+                "children": [
+                  {
+                    "domicile": "Russia",
+                    "lOS": "Other undergraduate",
+                    "mOS": "Full-time",
+                    "regHE": "North East",
+                    "student": 10
+                  },
+                  {
+                    "domicile": "Russia",
+                    "lOS": "Other undergraduate",
+                    "mOS": "Full-time",
+                    "regHE": "East of England",
+                    "student": 10
+                  },
+                  {
+                    "domicile": "Russia",
+                    "lOS": "Other undergraduate",
+                    "mOS": "Full-time",
+                    "regHE": "London",
+                    "student": 35
+                  },
+                  {
+                    "domicile": "Russia",
+                    "lOS": "Other undergraduate",
+                    "mOS": "Full-time",
+                    "regHE": "South East",
+                    "student": 10
+                  },
+                  {
+                    "domicile": "Russia",
+                    "lOS": "Other undergraduate",
+                    "mOS": "Full-time",
+                    "regHE": "South West",
+                    "student": 10
+                  },
+                  {
+                    "domicile": "Russia",
+                    "lOS": "Other undergraduate",
+                    "mOS": "Full-time",
+                    "regHE": "Scotland",
+                    "student": 10
+                  }
+                ]
+              },
+              {
+                "name": "Part-time",
+                "children": [
+                  {
+                    "domicile": "Russia",
+                    "lOS": "Other undergraduate",
+                    "mOS": "Part-time",
+                    "regHE": "West Midlands",
+                    "student": 5
+                  },
+                  {
+                    "domicile": "Russia",
+                    "lOS": "Other undergraduate",
+                    "mOS": "Part-time",
+                    "regHE": "London",
+                    "student": 10
+                  },
+                  {
+                    "domicile": "Russia",
+                    "lOS": "Other undergraduate",
+                    "mOS": "Part-time",
+                    "regHE": "South East",
+                    "student": 5
+                  },
+                  {
+                    "domicile": "Russia",
+                    "lOS": "Other undergraduate",
+                    "mOS": "Part-time",
+                    "regHE": "Scotland",
+                    "student": 10
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Turkey",
+        "children": [
+          {
+            "name": "Postgraduate (research)",
+            "children": [
+              {
+                "name": "Full-time",
+                "children": [
+                  {
+                    "domicile": "Turkey",
+                    "lOS": "Postgraduate (research)",
+                    "mOS": "Full-time",
+                    "regHE": "North East",
+                    "student": 40
+                  },
+                  {
+                    "domicile": "Turkey",
+                    "lOS": "Postgraduate (research)",
+                    "mOS": "Full-time",
+                    "regHE": "North West",
+                    "student": 75
+                  },
+                  {
+                    "domicile": "Turkey",
+                    "lOS": "Postgraduate (research)",
+                    "mOS": "Full-time",
+                    "regHE": "Yorkshire and The Humber",
+                    "student": 70
+                  },
+                  {
+                    "domicile": "Turkey",
+                    "lOS": "Postgraduate (research)",
+                    "mOS": "Full-time",
+                    "regHE": "East Midlands",
+                    "student": 70
+                  },
+                  {
+                    "domicile": "Turkey",
+                    "lOS": "Postgraduate (research)",
+                    "mOS": "Full-time",
+                    "regHE": "West Midlands",
+                    "student": 65
+                  },
+                  {
+                    "domicile": "Turkey",
+                    "lOS": "Postgraduate (research)",
+                    "mOS": "Full-time",
+                    "regHE": "East of England",
+                    "student": 65
+                  },
+                  {
+                    "domicile": "Turkey",
+                    "lOS": "Postgraduate (research)",
+                    "mOS": "Full-time",
+                    "regHE": "London",
+                    "student": 195
+                  },
+                  {
+                    "domicile": "Turkey",
+                    "lOS": "Postgraduate (research)",
+                    "mOS": "Full-time",
+                    "regHE": "South East",
+                    "student": 145
+                  },
+                  {
+                    "domicile": "Turkey",
+                    "lOS": "Postgraduate (research)",
+                    "mOS": "Full-time",
+                    "regHE": "South West",
+                    "student": 90
+                  },
+                  {
+                    "domicile": "Turkey",
+                    "lOS": "Postgraduate (research)",
+                    "mOS": "Full-time",
+                    "regHE": "Wales",
+                    "student": 35
+                  },
+                  {
+                    "domicile": "Turkey",
+                    "lOS": "Postgraduate (research)",
+                    "mOS": "Full-time",
+                    "regHE": "Scotland",
+                    "student": 130
+                  },
+                  {
+                    "domicile": "Turkey",
+                    "lOS": "Postgraduate (research)",
+                    "mOS": "Full-time",
+                    "regHE": "Northern Ireland",
+                    "student": 15
+                  }
+                ]
+              },
+              {
+                "name": "Part-time",
+                "children": [
+                  {
+                    "domicile": "Turkey",
+                    "lOS": "Postgraduate (research)",
+                    "mOS": "Part-time",
+                    "regHE": "North West",
+                    "student": 5
+                  },
+                  {
+                    "domicile": "Turkey",
+                    "lOS": "Postgraduate (research)",
+                    "mOS": "Part-time",
+                    "regHE": "London",
+                    "student": 15
+                  },
+                  {
+                    "domicile": "Turkey",
+                    "lOS": "Postgraduate (research)",
+                    "mOS": "Part-time",
+                    "regHE": "South East",
+                    "student": 5
+                  },
+                  {
+                    "domicile": "Turkey",
+                    "lOS": "Postgraduate (research)",
+                    "mOS": "Part-time",
+                    "regHE": "South West",
+                    "student": 5
+                  },
+                  {
+                    "domicile": "Turkey",
+                    "lOS": "Postgraduate (research)",
+                    "mOS": "Part-time",
+                    "regHE": "Wales",
+                    "student": 5
+                  },
+                  {
+                    "domicile": "Turkey",
+                    "lOS": "Postgraduate (research)",
+                    "mOS": "Part-time",
+                    "regHE": "Scotland",
+                    "student": 5
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Postgraduate (taughte",
+            "children": [
+              {
+                "name": "Full-time",
+                "children": [
+                  {
+                    "domicile": "Turkey",
+                    "lOS": "Postgraduate (taught)",
+                    "mOS": "Full-time",
+                    "regHE": "North East",
+                    "student": 40
+                  },
+                  {
+                    "domicile": "Turkey",
+                    "lOS": "Postgraduate (taught)",
+                    "mOS": "Full-time",
+                    "regHE": "North West",
+                    "student": 50
+                  },
+                  {
+                    "domicile": "Turkey",
+                    "lOS": "Postgraduate (taught)",
+                    "mOS": "Full-time",
+                    "regHE": "Yorkshire and The Humber",
+                    "student": 55
+                  },
+                  {
+                    "domicile": "Turkey",
+                    "lOS": "Postgraduate (taught)",
+                    "mOS": "Full-time",
+                    "regHE": "East Midlands",
+                    "student": 65
+                  },
+                  {
+                    "domicile": "Turkey",
+                    "lOS": "Postgraduate (taught)",
+                    "mOS": "Full-time",
+                    "regHE": "West Midlands",
+                    "student": 75
+                  },
+                  {
+                    "domicile": "Turkey",
+                    "lOS": "Postgraduate (taught)",
+                    "mOS": "Full-time",
+                    "regHE": "East of England",
+                    "student": 110
+                  },
+                  {
+                    "domicile": "Turkey",
+                    "lOS": "Postgraduate (taught)",
+                    "mOS": "Full-time",
+                    "regHE": "London",
+                    "student": 680
+                  },
+                  {
+                    "domicile": "Turkey",
+                    "lOS": "Postgraduate (taught)",
+                    "mOS": "Full-time",
+                    "regHE": "South East",
+                    "student": 225
+                  },
+                  {
+                    "domicile": "Turkey",
+                    "lOS": "Postgraduate (taught)",
+                    "mOS": "Full-time",
+                    "regHE": "South West",
+                    "student": 125
+                  },
+                  {
+                    "domicile": "Turkey",
+                    "lOS": "Postgraduate (taught)",
+                    "mOS": "Full-time",
+                    "regHE": "Wales",
+                    "student": 55
+                  },
+                  {
+                    "domicile": "Turkey",
+                    "lOS": "Postgraduate (taught)",
+                    "mOS": "Full-time",
+                    "regHE": "Scotland",
+                    "student": 125
+                  },
+                  {
+                    "domicile": "Turkey",
+                    "lOS": "Postgraduate (taught)",
+                    "mOS": "Full-time",
+                    "regHE": "Northern Ireland",
+                    "student": 25
+                  }
+                ]
+              },
+              {
+                "name": "Part-time",
+                "children": [
+                  {
+                    "domicile": "Turkey",
+                    "lOS": "Postgraduate (taught)",
+                    "mOS": "Part-time",
+                    "regHE": "North West",
+                    "student": 5
+                  },
+                  {
+                    "domicile": "Turkey",
+                    "lOS": "Postgraduate (taught)",
+                    "mOS": "Part-time",
+                    "regHE": "Yorkshire and The Humber",
+                    "student": 10
+                  },
+                  {
+                    "domicile": "Turkey",
+                    "lOS": "Postgraduate (taught)",
+                    "mOS": "Part-time",
+                    "regHE": "East Midlands",
+                    "student": 5
+                  },
+                  {
+                    "domicile": "Turkey",
+                    "lOS": "Postgraduate (taught)",
+                    "mOS": "Part-time",
+                    "regHE": "West Midlands",
+                    "student": 10
+                  },
+                  {
+                    "domicile": "Turkey",
+                    "lOS": "Postgraduate (taught)",
+                    "mOS": "Part-time",
+                    "regHE": "East of England",
+                    "student": 5
+                  },
+                  {
+                    "domicile": "Turkey",
+                    "lOS": "Postgraduate (taught)",
+                    "mOS": "Part-time",
+                    "regHE": "London",
+                    "student": 50
+                  },
+                  {
+                    "domicile": "Turkey",
+                    "lOS": "Postgraduate (taught)",
+                    "mOS": "Part-time",
+                    "regHE": "South East",
+                    "student": 10
+                  },
+                  {
+                    "domicile": "Turkey",
+                    "lOS": "Postgraduate (taught)",
+                    "mOS": "Part-time",
+                    "regHE": "South West",
+                    "student": 10
+                  },
+                  {
+                    "domicile": "Turkey",
+                    "lOS": "Postgraduate (taught)",
+                    "mOS": "Part-time",
+                    "regHE": "Wales",
+                    "student": 5
+                  },
+                  {
+                    "domicile": "Turkey",
+                    "lOS": "Postgraduate (taught)",
+                    "mOS": "Part-time",
+                    "regHE": "Scotland",
+                    "student": 15
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "First degree",
+            "children": [
+              {
+                "name": "Full-time",
+                "children": [
+                  {
+                    "domicile": "Turkey",
+                    "lOS": "First degree",
+                    "mOS": "Full-time",
+                    "regHE": "North East",
+                    "student": 65
+                  },
+                  {
+                    "domicile": "Turkey",
+                    "lOS": "First degree",
+                    "mOS": "Full-time",
+                    "regHE": "North West",
+                    "student": 145
+                  },
+                  {
+                    "domicile": "Turkey",
+                    "lOS": "First degree",
+                    "mOS": "Full-time",
+                    "regHE": "Yorkshire and The Humber",
+                    "student": 65
+                  },
+                  {
+                    "domicile": "Turkey",
+                    "lOS": "First degree",
+                    "mOS": "Full-time",
+                    "regHE": "East Midlands",
+                    "student": 150
+                  },
+                  {
+                    "domicile": "Turkey",
+                    "lOS": "First degree",
+                    "mOS": "Full-time",
+                    "regHE": "West Midlands",
+                    "student": 95
+                  },
+                  {
+                    "domicile": "Turkey",
+                    "lOS": "First degree",
+                    "mOS": "Full-time",
+                    "regHE": "East of England",
+                    "student": 75
+                  },
+                  {
+                    "domicile": "Turkey",
+                    "lOS": "First degree",
+                    "mOS": "Full-time",
+                    "regHE": "London",
+                    "student": 935
+                  },
+                  {
+                    "domicile": "Turkey",
+                    "lOS": "First degree",
+                    "mOS": "Full-time",
+                    "regHE": "South East",
+                    "student": 230
+                  },
+                  {
+                    "domicile": "Turkey",
+                    "lOS": "First degree",
+                    "mOS": "Full-time",
+                    "regHE": "South West",
+                    "student": 170
+                  },
+                  {
+                    "domicile": "Turkey",
+                    "lOS": "First degree",
+                    "mOS": "Full-time",
+                    "regHE": "Wales",
+                    "student": 15
+                  },
+                  {
+                    "domicile": "Turkey",
+                    "lOS": "First degree",
+                    "mOS": "Full-time",
+                    "regHE": "Scotland",
+                    "student": 110
+                  }
+                ]
+              },
+              {
+                "name": "Part-time",
+                "children": [
+                  {
+                    "domicile": "Turkey",
+                    "lOS": "First degree",
+                    "mOS": "Part-time",
+                    "regHE": "London",
+                    "student": 10
+                  },
+                  {
+                    "domicile": "Turkey",
+                    "lOS": "First degree",
+                    "mOS": "Part-time",
+                    "regHE": "South East",
+                    "student": 5
+                  },
+                  {
+                    "domicile": "Turkey",
+                    "lOS": "First degree",
+                    "mOS": "Part-time",
+                    "regHE": "South West",
+                    "student": 5
+                  },
+                  {
+                    "domicile": "Turkey",
+                    "lOS": "First degree",
+                    "mOS": "Part-time",
+                    "regHE": "Scotland",
+                    "student": 5
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Other undergraduate",
+            "children": [
+              {
+                "name": "Full-time",
+                "children": [
+                  {
+                    "domicile": "Turkey",
+                    "lOS": "Other undergraduate",
+                    "mOS": "Full-time",
+                    "regHE": "London",
+                    "student": 65
+                  },
+                  {
+                    "domicile": "Turkey",
+                    "lOS": "Other undergraduate",
+                    "mOS": "Full-time",
+                    "regHE": "South East",
+                    "student": 15
+                  },
+                  {
+                    "domicile": "Turkey",
+                    "lOS": "Other undergraduate",
+                    "mOS": "Full-time",
+                    "regHE": "South West",
+                    "student": 5
+                  },
+                  {
+                    "domicile": "Turkey",
+                    "lOS": "Other undergraduate",
+                    "mOS": "Full-time",
+                    "regHE": "Scotland",
+                    "student": 5
+                  }
+                ]
+              },
+              {
+                "name": "Part-time",
+                "children": [
+                  {
+                    "domicile": "Turkey",
+                    "lOS": "Other undergraduate",
+                    "mOS": "Part-time",
+                    "regHE": "London",
+                    "student": 5
+                  },
+                  {
+                    "domicile": "Turkey",
+                    "lOS": "Other undergraduate",
+                    "mOS": "Part-time",
+                    "regHE": "South East",
+                    "student": 5
+                  },
+                  {
+                    "domicile": "Turkey",
+                    "lOS": "Other undergraduate",
+                    "mOS": "Part-time",
+                    "regHE": "Scotland",
+                    "student": 5
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
